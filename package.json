@@ -1,5 +1,5 @@
 {
-  "name": "cctakehometestfrontend",
+  "name": "andyreactapptemplate",
   "version": "1.0.0",
   "description": "React SPA with two carousels displaying third party API data",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avanwor/CCTakeHomeTestFrontEnd.git"
+    "url": "git+https://github.com/avanwor/AndyReactAppTemplate.git"
   },
   "author": "Andy Van Wormer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avanwor/CCTakeHomeTestFrontEnd/issues"
+    "url": "https://github.com/avanwor/AndyReactAppTemplate/issues"
   },
-  "homepage": "https://github.com/avanwor/CCTakeHomeTestFrontEnd#readme",
+  "homepage": "https://github.com/avanwor/AndyReactAppTemplate#readme",
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^1.19.0",
