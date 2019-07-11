@@ -4,7 +4,7 @@ class App extends Component {
     constructor(props) {
         super(props)
         this.state = {
-            suh: 'hey'
+            intro: 'Hello'
         }
     }
 
@@ -13,7 +13,7 @@ class App extends Component {
     }
 
     render() {
-        return <div>hello from app.js</div>
+        return <div>{this.state.intro} from app.js</div>
     }
 };
 
